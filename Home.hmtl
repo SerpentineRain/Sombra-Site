@@ -4,18 +4,28 @@
             <style>
                 .navigation-bar-1 {
                     display:block;
-                    padding: 60px 475px;
+                    padding: 60px 237.5px;
                 }
                 .navigation-bar-2 {
                     display: block;
                     padding: 60px 475px;
+                }
+                .navigation-bar-3 {
+                    display: block;
+                    padding: 60px 712.5px;
+                }
+                .navigation-bar-4 {
+                    display: block;
+                    padding: 60px 950px;
                 }
             </style>
         </head>
         <body>
             <button class="navigation-bar-1"></button>
             <button class="navigation-bar-2"></button>
-            <h1></h1>
-            <p></p>
+            <button class="navigation-bar-3"></button>
+            <button class="navigation-bar-4"></button>
+            <h1>Soon..</h1>
+            <p>Here we will observe player strategies, counters, buffs and debuffs, skins, voice lines, official art and comics, and so on and so forth.</p>
         </body>
     </html>
