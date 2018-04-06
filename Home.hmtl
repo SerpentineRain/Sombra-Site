@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <style>
+                .navigation-bar-1 {
+                    display:block;
+                    padding: 60px 475px;
+                }
+                .navigation-bar-2 {
+                    display: block;
+                    padding: 60px 475px;
+                }
+            </style>
+        </head>
+        <body>
+            <button class="navigation-bar-1"></button>
+            <button class="navigation-bar-2"></button>
+            <h1>AAAAAAAAAAAAA</h1>
+            <p>I really need to add more stuff buuuuuut i'm tired and it took a while just to even get here tbh</p>
+        </body>
+    </html>
