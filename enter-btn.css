@@ -1,1 +1,13 @@
-
+.enter-btn {
+    background: url(https://orig00.deviantart.net/a5e9/f/2018/096/d/d/hack_the_planet_01_by_serpentinerain-dc82zmo.png);
+    font-family: monospace;
+    font-size: 3em;
+    font-weight: 500;
+    color:transparent;
+    border: none;
+    background-color: inherit;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    padding: 25px 340px;
